@@ -1,0 +1,2 @@
+include tests/*.py tests/*.java
+include images/*.svg
